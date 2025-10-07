@@ -1,0 +1,3 @@
+[submodule "baker-bird/baker-bird/python-bakerbird"]
+	path = baker-bird/baker-bird/python-bakerbird
+	url = https://github.com/slaysd/python-bakerbird
